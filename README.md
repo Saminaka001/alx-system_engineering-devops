@@ -1,1 +1,1 @@
-alx ox00 shell navigation 
+This repository contains solution to shell tasks
